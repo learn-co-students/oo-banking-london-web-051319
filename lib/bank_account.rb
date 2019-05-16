@@ -1,6 +1,3 @@
-require_relative "transfer.rb"
-require "pry"
-
 class BankAccount
 
   attr_reader :name
